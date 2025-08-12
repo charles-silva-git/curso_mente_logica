@@ -11,7 +11,7 @@ legumes = ["cenoura", "batata", "chuchu"]
 # for item_individual in lista:
 # bloco repetido N vezes
 
-for fruta in frutas:
+for fruta in frutas: # FOR = cria uma lista, FRUTA = variável dessa lista, IN = dentro de outra variável, FRUTAS = variável que vai reproduzir da lista criada
     print("Fruta: ", fruta)
     
 for legume in legumes:
